@@ -143,7 +143,6 @@ Check out my [n8n Twitter Thread Fetcher workflow](https://n8n.io/workflows/4088
 - AI Agent to chat with you Search Console Data, using OpenAI and Postgres
 - AI Social Media Caption Creator creates social media post captions in Airtable
 - AI-Generated Summary Block for WordPress Posts
-- AI Automated HR Workflow for CV Analysis and Candidate Evaluation
 
 ### **WhatsApp**
 
